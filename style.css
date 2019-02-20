@@ -1,0 +1,52 @@
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+}
+
+.shopping.cart.icon{
+  color: white;
+}
+
+.top.image {
+  height: 334px;
+  padding-top: 0px;
+  background: url(https://cdn.shopify.com/s/files/1/0802/4859/t/6/assets/662HI-LauShop-Banner.jpg?1195587…) top center;
+}
+
+.ui.borderless.middlemenu.menu {
+  background-color: black;
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  background-color: white;
+  color: black;
+  padding-top: 25px;
+  padding-bottom: 50px;
+}
+
+.ui.leftlogo.image{
+  padding-right: 100px;
+}
+
+.ui.centered.grid  {
+  size: 400px;
+  box-shadow: none;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+.text.one {
+  color: white;
+  align: left;
+}
+
+
+
+
